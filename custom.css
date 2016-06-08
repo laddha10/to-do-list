@@ -1,0 +1,28 @@
+body{
+    margin-left: 28em;
+    background-color: ghostwhite;
+}
+.to {
+
+    margin-top: 7em;
+}
+.fo{
+    margin-left: 2px;
+    width:100px;
+}
+.decorate{
+    text-decoration: line-through;
+}
+ol li{
+    margin-left: 4.5em;
+    width:200px;
+}
+
+.edit{
+    margin-left: 14em;
+    margin-top:-4em;
+}
+img{
+    margin-left:14em;
+    margin-top:-4em;
+}
